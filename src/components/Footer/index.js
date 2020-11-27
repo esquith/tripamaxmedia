@@ -146,7 +146,7 @@ const Footer = () => {
             <Row type="flex" justify="space-between">
               <Col lg={12} md={12} sm={12} xs={24}>
                 <S.CSite>
-                  All Rights Reserved - Landy © {new Date().getFullYear()}
+                  All Rights Reserved - Tripamax Media © {new Date().getFullYear()}
                 </S.CSite>
               </Col>
             </Row>
