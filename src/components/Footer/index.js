@@ -127,20 +127,6 @@ const Footer = () => {
                 >
                   <SvgIcon src="linkedin.svg" />
                 </a>
-                <a
-                  href="https://github.com/Adrinlol/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <SvgIcon src="instagram.svg" />
-                </a>
-                <a
-                  href="https://medium.com/@lashakakabadze/"
-                  target="_blank"
-                  rel="noopener noreferrer"
-                >
-                  <SvgIcon src="medium.svg" />
-                </a>
               </S.FooterContainer>
             </Row>
             <Row type="flex" justify="space-between">
