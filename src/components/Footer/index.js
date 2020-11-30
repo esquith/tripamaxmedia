@@ -30,7 +30,7 @@ const Footer = () => {
                     `Do you have any question regarding the project? Fell free to reach out.`
                   )}
                 </S.Para>
-                <a href="mailto:l.qqbadze@gmail.com">
+                <a href="mailto:esquithallen@gmail.com">
                   <S.Chat>{t(`Let's Chat`)}</S.Chat>
                 </a>
               </Col>
@@ -107,21 +107,21 @@ const Footer = () => {
               </S.NavLink>
               <S.FooterContainer>
                 <a
-                  href="https://github.com/Adrinlol/create-react-app-adrinlol"
+                  href="https://github.com/esquith"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <SvgIcon src="github.svg" />
                 </a>
                 <a
-                  href="https://twitter.com/Adrinlolx"
+                  href="https://twitter.com/esquith"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <SvgIcon src="twitter.svg" />
                 </a>
                 <a
-                  href="https://www.linkedin.com/in/lasha-kakabadze//"
+                  href="https://www.linkedin.com/in/esquith"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
