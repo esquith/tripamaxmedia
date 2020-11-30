@@ -34,15 +34,6 @@ const Footer = () => {
                   <S.Chat>{t(`Let's Chat`)}</S.Chat>
                 </a>
               </Col>
-              <Col lg={8} md={8} sm={12} xs={24}>
-                <S.Title>{t("Policy")}</S.Title>
-                <S.Large to="/" left="true">
-                  {t("Application Security")}
-                </S.Large>
-                <S.Large left="true" to="/">
-                  {t("Software Principles")}
-                </S.Large>
-              </Col>
               <Col lg={6} md={6} sm={12} xs={24}>
                 <S.Empty />
                 <S.Large left="true" to="/">
@@ -65,12 +56,6 @@ const Footer = () => {
                 <S.Title>{t("Company")}</S.Title>
                 <S.Large left="true" to="/">
                   {t("About")}
-                </S.Large>
-                <S.Large left="true" to="/">
-                  {t("Blog")}
-                </S.Large>
-                <S.Large left="true" to="/">
-                  {t("Press")}
                 </S.Large>
                 <S.Large left="true" to="/">
                   {t("Careers & Culture")}

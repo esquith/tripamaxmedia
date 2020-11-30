@@ -33,7 +33,7 @@ const Header = () => {
           <Link to="/">{t("Mission")}</Link>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall>
-          <Link to="/">{t("Product")}</Link>
+          <Link to="/">{t("Service")}</Link>
         </S.CustomNavLinkSmall>
         <S.CustomNavLinkSmall style={{ width: "180px" }}>
           <Link to="/">
