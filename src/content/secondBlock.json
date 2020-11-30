@@ -1,14 +1,14 @@
 {
-  "title": "Light, Fast & Responsive",
-  "text": "This template is ready to use, so you don't need to change anything at a component level, unless you want to customize the default styling.",
+  "title": "Light, Fast & Effective",
+  "text": "We do one thing - we just do it with a monastic focus and better than anyone else. Our cold e-mail campaigns will bring you the value your company needs.",
   "section": [
     {
-      "title": "Why Antd?",
+      "title": "Why Cold Email?",
       "content": "Ant Design is a React UI library that has a plethora of easy-to-use components that are useful for building elegant UI.",
       "icon": "notes.svg"
     },
     {
-      "title": "Why styled-components?",
+      "title": "Why Tripamax Media?",
       "content": "Styled Components gives you total control over your components, instead of using a multitude of conditional class names.",
       "icon": "notes.svg"
     }
